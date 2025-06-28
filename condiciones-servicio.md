@@ -43,4 +43,4 @@ Cualquier parte puede terminar el servicio con notificación previa.
 Estos términos se rigen por las leyes aplicables en la jurisdicción del proveedor.
 
 ## 10. Contacto
-Para consultas: [correo@ejemplo.com]
+Para consultas: lsanaya3@proton.me

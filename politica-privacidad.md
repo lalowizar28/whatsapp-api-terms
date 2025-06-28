@@ -35,7 +35,7 @@ Los usuarios tienen derecho a:
 - Oponerse al procesamiento
 
 ## 7. Contacto
-Para consultas sobre privacidad, contactar a: [correo@ejemplo.com]
+Para consultas sobre privacidad, contactar a: lsanaya3@proton.me
 
 ## 8. Cambios
 Nos reservamos el derecho de actualizar esta política. Los cambios serán publicados en esta página.
